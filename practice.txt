@@ -1,0 +1,14 @@
+Real-Time Example
+
+Imagine:
+
+Shopping website running on 10 Pods
+Need new version deployment
+
+Rolling update:
+
+updates Pods one-by-one
+customers continue shopping
+no website outage
+
+That is why rolling updates are widely used in DevOps and Kubernetes production environments.
